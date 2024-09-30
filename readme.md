@@ -2,6 +2,8 @@
 
 ## Welcome to the official repository of the Project Foosball Rating System!
 
+### THIS PROJECT IS OFFICIALLY DEPRECATED
+
 ### What is this for?
 This is a rating system based on Elo written in Scratch (at the moment), designed to track ratings and their history.
 Designed for use in competitive foosball, with 1-on-1 and 2-on-2 formats. This may also be used, with amendments, as a rating system for other games.
